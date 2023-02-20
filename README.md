@@ -1,4 +1,4 @@
 # 6th-Semester
-<b>All Notes & Assignments is available here soon!<b>
+<b>All Notes, assignments & question paper with sol is available here!<b>
 
 <br><br>Thank me later!
