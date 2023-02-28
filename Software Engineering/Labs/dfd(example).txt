@@ -1,8 +1,0 @@
-Level-0 DFD:
-[Image description: A circle representing the main process of the system, "Students' Auditorium Management Software", and two rectangles representing the external entities "Spectators" and "Show Manager". An incoming arrow from "Spectators" and an outgoing arrow towards "Show Manager" are shown.]
-
-Level-1 DFD:
-[Image description: A circle representing the main process of the system, "Students' Auditorium Management Software", two rectangles representing the external entities "Spectators" and "Show Manager", and a rectangle representing the process "Authorized Sales Person". An incoming arrow from "Spectators" and outgoing arrows towards "Show Manager" and "Authorized Sales Person" are shown.]
-
-Level-2 DFD:
-[Image description: A circle representing the main process of the system, "Students' Auditorium Management Software", three rectangles representing the external entities "Spectators", "Show Manager", and "Accounts Clerk", and two rectangles representing the processes "Authorized Sales Person" and "Backup and Restore". Incoming arrows from "Spectators" and "Accounts Clerk" and outgoing arrows towards "Show Manager" and "Backup and Restore" are shown.]
